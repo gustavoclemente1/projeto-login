@@ -6,3 +6,13 @@
     Lilás: #5f2c82
 */
 
+html, body {
+    height: 100vh;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image: linear-gradient(#5f2c82, #49a09d);
+    background-repeat: no-repeat;
+}
